@@ -1,0 +1,3 @@
+MIGRATION BATON TECHNICAL DEMO — CHECKPOINT 2
+All 128 canonical records were copied to the destination.
+The rollback anchor remains intact; no legacy record was mutated.

@@ -1,0 +1,6 @@
+MIGRATION BATON TECHNICAL DEMO — OPERATOR-CREATED ANCHOR
+Snapshot: registry-v41
+Record count: 128
+Merkle root: 55aa-demo-anchor
+Rollback instruction: restore snapshot v41 and reopen legacy writes.
+This is a technical demo, not an independent production authority.

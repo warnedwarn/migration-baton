@@ -1,0 +1,3 @@
+MIGRATION BATON TECHNICAL DEMO — CHECKPOINT 1
+Legacy writes are frozen at sequence 128.
+The rollback anchor 55aa-demo-anchor remains readable and unchanged.

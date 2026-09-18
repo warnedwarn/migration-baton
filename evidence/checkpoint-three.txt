@@ -1,0 +1,3 @@
+MIGRATION BATON TECHNICAL DEMO — CHECKPOINT 3
+Destination indexes cover all 128 copied records.
+Index verification passed and the rollback snapshot is still recoverable.
