@@ -1,0 +1,19 @@
+{
+  "account": "warnedwarn",
+  "wallet": "0x013A0745a3b2DbF87f4AB377266fCcb7e6eEC88A",
+  "network": "StudioNet",
+  "contractAddress": "0x034E9Eee99952623459016974dD9b97F35369e7D",
+  "deploymentTransaction": "0x1c814c105be81428d3dbb3ea2b9f3ccf5f222ffaa4c5466b2d9de990f5171c9a",
+  "sourceCommit": "93c330db210d2976d44371d25189502b2bb49747",
+  "sourceSha256": "d9f458d20371f37c6b47bb028adcc4e9a0d7724cdac80d1387d85d2ab6bbeedb",
+  "liveRecordId": "LIVE-1789762048",
+  "liveState": "COMPLETED",
+  "liveTransactions": [
+    "0x93761aa40526c561ff603065396ff2cc3cf21f45c5384ce2f8f8506e460135bc",
+    "0xe56f026b728893a06a41bcdfc0163111dd4a437544eb00544d44dfa7bdc32b54",
+    "0x7015ba32051a925d5e7d4f37ead839656df214763d3f71ae79853500f6c5385a",
+    "0x1ea9824f507782c62fc56494f168a86b93e5902eb7704dafd872cb7654ef4c8f",
+    "0xc1895cf44df68c40333cb7bb486a487aecda67e027cc5783d35272505e35df7c"
+  ],
+  "publicSite": "https://warnedwarn.github.io/migration-baton/"
+}

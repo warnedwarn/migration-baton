@@ -30,4 +30,4 @@ Tests cover a complete ordered route, attempted station skipping, a forged ancho
 
 ## Network terminus
 
-The reviewed commit, StudioNet address, deployment transaction, and live checkpoint run are recorded in `deployment.json` after publication.
+StudioNet contract: [`0x034E9Eee99952623459016974dD9b97F35369e7D`](https://explorer-studio.genlayer.com/address/0x034E9Eee99952623459016974dD9b97F35369e7D). Live route `LIVE-1789762048` finalized `plan`, `begin`, and all three ordered checkpoint transactions, reaching `COMPLETED`. The five hashes and deployed-source digest are recorded in `deployment.json`; the public line is [warnedwarn.github.io/migration-baton](https://warnedwarn.github.io/migration-baton/).
